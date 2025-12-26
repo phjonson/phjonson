@@ -13,7 +13,7 @@ Eu me chamo Phillipe Jonson, sou cristão e tenho 35 anos. Tenho formação téc
 
 ## O que você vai encontrar no meu perfil
 
-Um dos projetos pessoais está para se tornar público, que é um aplicativo para celular feito 100% em Python. O objetivo deste projeto no momento é praticar mesmo, aplicando o qur estou aprendendo desta linguagem de programação.
+Um dos projetos pessoais está para se tornar público, que é um aplicativo para celular feito 100% em Python. O objetivo deste projeto no momento é praticar mesmo, aplicando o que estou aprendendo desta linguagem de programação.
 
 ### Minha caixa de ferramentas:
 
